@@ -17,7 +17,7 @@ module.exports = {
 `npm start`
 ## If you want better looking logs
 1. `npm install -g bunyan`
-2. `npm start | bunyan
+2. `npm start | bunyan`
 
 # Getting data into cloudant
 You can use a [bot that I wrote](https://github.com/epswartz/DiscordCloudantCollector) to collect messages from your discord server and store them in a cloudant database 
